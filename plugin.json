@@ -1,11 +1,20 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "myrlo",
-  "description": "Create and edit Myrlo characters, stories, and worlds through staged authoring sessions.",
+  "description": "Create and edit your Myrlo characters, stories, and worlds from your editor. Set up casts, add lore and locations, and generate portraits. Every change is shown to you for review before it saves.",
   "version": "0.1.0",
-  "author": { "name": "Brandon Diaz", "url": "https://myrlo.app" },
+  "author": {
+    "name": "Brandon Diaz",
+    "url": "https://myrlo.app"
+  },
   "homepage": "https://myrlo.app",
   "repository": "https://github.com/BrandonDiaz/myrlo-cursor-plugin",
   "license": "MIT",
-  "keywords": ["myrlo", "storytelling", "worldbuilding", "characters", "mcp"]
+  "keywords": [
+    "myrlo",
+    "storytelling",
+    "worldbuilding",
+    "characters",
+    "mcp"
+  ]
 }

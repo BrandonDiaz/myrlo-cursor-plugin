@@ -1,5 +1,7 @@
 # Myrlo plugin
 
+<img src="assets/logo.png" alt="Myrlo logo" width="96" />
+
 Agent plugin for [Myrlo](https://myrlo.app): create and edit your characters, stories, and worlds from Cursor (and other Agent Plugins–compatible clients).
 
 ## What's inside
