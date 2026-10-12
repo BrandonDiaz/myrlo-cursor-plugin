@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.myrlo/creator-tools",
+  "title": "Myrlo",
+  "description": "Create and edit Myrlo characters, stories, and worlds, with review before every change saves.",
+  "repository": { "url": "https://github.com/BrandonDiaz/myrlo-cursor-plugin", "source": "github" },
+  "websiteUrl": "https://myrlo.app",
+  "version": "0.1.0",
+  "remotes": [ { "type": "streamable-http", "url": "https://myrlo.app/mcp" } ]
+}
